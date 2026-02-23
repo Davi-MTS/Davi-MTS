@@ -13,7 +13,7 @@ Designing research-driven intelligent systems with production-grade architectura
 
 ---
 
-# MANIFESTO
+# MANIFEST
 
 Artificial Intelligence must scale.  
 Models alone are insufficient.  
