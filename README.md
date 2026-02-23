@@ -1,189 +1,145 @@
 <div align="center">
 
-# DAVI MARQUES  
-### Artificial Intelligence Systems Research Laboratory
+# Davi Marques AI Systems Lab  
+### Artificial Intelligence • Data Systems • Distributed Architectures
 
-Distributed Intelligence • Scalable Architectures • Applied Machine Learning • Systems Engineering  
-
----
-
-Designing research-driven intelligent systems with production-grade architectural standards.
+Research-driven engineering for scalable intelligent systems.
 
 </div>
 
 ---
 
-# MANIFEST
+## 🧠 About the Lab
 
-Artificial Intelligence must scale.  
-Models alone are insufficient.  
-Architecture defines capability.  
-Structure defines longevity.  
-Ethics defines legitimacy.  
+The AI Systems Lab is an independent research-oriented initiative focused on:
 
-This laboratory focuses on the engineering of intelligent systems
-that are reproducible, distributed, explainable and architecturally intentional.
+- Intelligent Data Pipelines
+- Distributed Architectures
+- Applied Machine Learning
+- Automation with AI Agents
+- IoT Data Systems
 
----
-
-# RESEARCH IDENTITY
-
-AI undergraduate dedicated to the intersection of:
-
-- Distributed Systems Engineering  
-- Parallel Computation  
-- Graph & Data Mining  
-- Autonomous Agent Architectures  
-- AI Infrastructure Design  
-
-Every repository is structured as a research artifact combining:
-
-- Theoretical foundation  
-- System design documentation  
-- Scalability analysis  
-- Ethical evaluation  
-- Reproducibility protocol  
+This lab documents the structured evolution from academic foundations to production-level AI engineering.
 
 ---
 
-# RESEARCH TRACKS
+## 🛠 Technical Stack
 
-## ▣ Distributed Intelligence Systems
-Architectures for scalable multi-node AI processing.
+### Programming
+![Python](https://img.shields.io/badge/Python-Advanced-blue)
+![SQL](https://img.shields.io/badge/SQL-Intermediate-blue)
+![NoSQL](https://img.shields.io/badge/NoSQL-Conceptual-blue)
 
-## ▣ Graph-Based Knowledge Systems
-Graph modeling, structural mining and relational inference.
-
-## ▣ Autonomous Agent Architectures
-Modular agent ecosystems for distributed decision-making.
-
-## ▣ AI for Public Data Infrastructure
-Intelligence pipelines applied to large-scale public datasets.
-
----
-
-# LABORATORY ARCHITECTURE MODEL
-
-Example of architectural pattern used across projects:
-
-```mermaid
-flowchart LR
-    A[Data Sources] --> B[Ingestion Layer]
-    B --> C[Distributed Processing Layer]
-    C --> D[Feature Engineering]
-    D --> E[Model / Intelligence Core]
-    E --> F[API / Messaging Layer]
-    F --> G[Visualization / External Systems]
-```
-
-Core architectural principles:
-
-- Separation of concerns  
-- Distributed readiness  
-- Modular processing layers  
-- Event-driven integration  
-- Scalability by design  
-
----
-
-# METHODOLOGICAL FRAMEWORK
-
-Standard project structure:
-
-```
-project/
-│
-├── docs/
-│   ├── architecture.md
-│   ├── theoretical_foundation.md
-│   ├── ethics_analysis.md
-│   ├── scalability_report.md
-│   └── benchmarks.md
-│
-├── src/
-├── experiments/
-├── benchmarks/
-├── tests/
-├── data/
-└── reproducibility_guide.md
-```
-
-Each system includes:
-
-- Complexity analysis  
-- Performance benchmarking  
-- Load testing scenarios  
-- Ethical impact documentation  
-- Clear experiment tracking  
-
----
-
-# TECHNICAL STACK
-
-### Languages
-Python • SQL • JavaScript  
-
-### AI & Data Systems
-NumPy • Pandas • Scikit-learn • Graph Modeling Techniques  
+### Data & AI
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-informational)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Advancing-yellow)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-In%20Progress-lightgrey)
+![NLP](https://img.shields.io/badge/NLP-In%20Progress-lightgrey)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-Applied-purple)
 
 ### Systems & Infrastructure
-Distributed system concepts  
-Parallel computation models  
-REST APIs  
-MQTT-based messaging  
-Cloud-native architectural patterns  
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-Academic-green)
+![Parallel Computing](https://img.shields.io/badge/Parallel%20Computing-Academic-green)
+![Cloud Systems](https://img.shields.io/badge/Cloud%20Architecture-Conceptual-blue)
+
+### Automation & IoT
+![n8n](https://img.shields.io/badge/n8n-Automation-red)
+![MQTT](https://img.shields.io/badge/MQTT-IoT-yellowgreen)
+![ESP32](https://img.shields.io/badge/ESP32-Embedded-orange)
 
 ---
 
-# PUBLICATIONS IN PROGRESS
+## 📊 Technical Focus Map
 
-Planned technical write-ups:
+```mermaid
+graph TD
+    A[AI Systems Lab] --> B[Data Engineering]
+    A --> C[Distributed Systems]
+    A --> D[Machine Learning]
+    A --> E[Automation & Agents]
+    A --> F[IoT Pipelines]
 
-- Distributed AI Monitoring Architecture  
-- Graph-Based Intelligence for Public Systems  
-- Modular Multi-Agent Coordination Framework  
-- Scalable Data Mining Pipelines in Cloud Environments  
-
-These will evolve into long-form technical documentation within repositories.
-
----
-
-# PERFORMANCE & SYSTEM METRICS
-
-This laboratory emphasizes:
-
-- Throughput measurement  
-- Latency evaluation  
-- Horizontal scalability simulation  
-- Resource efficiency benchmarking  
-- Architectural decision logs  
+    D --> G[Supervised Learning]
+    D --> H[Deep Learning - in progress]
+    D --> I[NLP - in progress]
+```
 
 ---
 
-# ENGINEERING PHILOSOPHY
+## 🔬 Research Domains
 
-Intelligence is a systems problem.  
-Scalability is a design decision.  
-Ethics is a structural constraint.  
+### 1. Intelligent Data Engineering
+- Structured data pipelines
+- Fiscal data extraction systems
+- Data cleaning & transformation
 
-Repositories are not code containers.  
-They are engineered research environments.
+### 2. Distributed & Parallel Systems
+- Academic foundations
+- Cloud-based architecture concepts
+- Scalable system modeling
+
+### 3. Applied Artificial Intelligence
+- Supervised ML (Scikit-learn)
+- Generative AI applications
+- Model integration in real systems
+
+### 4. Automation & AI Agents
+- n8n workflow automation
+- AI-enhanced business process design
+- Intelligent orchestration
+
+### 5. IoT Data Architectures
+- ESP32 sensor systems
+- MQTT communication
+- IoT → Cloud → BI pipelines
 
 ---
 
-# 2026 DEVELOPMENT ROADMAP
+## 🏗 Active Project
 
-- Advanced distributed AI pipelines  
-- Production-level graph mining systems  
-- Multi-agent coordination at scale  
-- Real-time intelligent monitoring architectures  
-- Contribution to open-source AI infrastructure projects  
+### FISCALIS  
+**Fiscal Data Processing & Intelligent Extraction System**
+
+Modular architecture composed of:
+
+- Ingestion Layer (QR extraction)
+- Processing Layer (data retrieval & structuring)
+- Visualization Layer (analytics interface)
+
+Designed with architectural clarity and scalability in mind.
+
+---
+
+## 🚀 Projects in Development
+
+Currently expanding the lab with systems focused on:
+
+- Scalable AI pipelines
+- Production-oriented ML systems
+- IoT monitoring architectures
+- Advanced distributed AI frameworks
+
+---
+
+## 🎯 Strategic Direction
+
+2026 objectives:
+
+- Production-ready AI systems
+- Deep Learning advancement
+- NLP system development
+- Scalable distributed architectures
+- Open-source AI contribution
+- Technical English fluency
 
 ---
 
 <div align="center">
 
-AI Systems Research Laboratory  
-Structured Thinking • Distributed Intelligence • Scalable Impact  
+Engineering Intelligence  
+Systemic Thinking  
+Long-Term Vision  
 
 </div>
